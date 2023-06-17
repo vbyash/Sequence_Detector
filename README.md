@@ -1,1 +1,1 @@
-# my-projects
+# Sequence Detector using Verilog HDL
